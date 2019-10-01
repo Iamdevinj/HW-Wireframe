@@ -1,4 +1,2 @@
-# HW-Wireframe
-easy homework assignment 
-
-https://iamdevinj.github.io/HW-Wireframe/
+WIREFRAME
+![alt text](https://github.com/Iamdevinj/HW-Wireframe/blob/master/IMAGE/WIREFRAME.png "WIREFRAME")
